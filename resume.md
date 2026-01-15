@@ -1,8 +1,14 @@
 # Kathleen Tran  
-Seattle, WA | P: (253) 240-6000 | kathleentran56@gmail.com  
+Seattle, WA | P: (253) 240-6000 | [kathleentran56@gmail.com](kathleentran56@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kathleen-tran-909a032aa/)
+
+![Picture](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/World_map_blank_without_borders.svg/640px-World_map_blank_without_borders.svg.png)
 
 ---
 
+# SUMMARY
+Detail-oriented Geography and Data Science student with hands-on experience in GIS, web-based mapping, and data visualization. Skilled in translating complex spatial and analytical data into accessible, user-centered solutions using tools such as Python, ArcGIS, and Mapbox. Strong collaborator with a background in web development, data analysis, and digital systems management, driven by a commitment to equity, accessibility, and data-informed decision-making.
+
+---
 ## EDUCATION
 
 **University of Washington** — Seattle, WA  
