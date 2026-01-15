@@ -1,7 +1,7 @@
 # Kathleen Tran  
 Seattle, WA | P: (253) 240-6000 | [kathleentran56@gmail.com](kathleentran56@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kathleen-tran-909a032aa/)
 
-![Picture](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/World_map_blank_without_borders.svg/640px-World_map_blank_without_borders.svg.png)
+![Picture](https://media.licdn.com/dms/image/v2/D5603AQFBU89ed3jR8g/profile-displayphoto-shrink_800_800/B56Zsm1QJbKIAc-/0/1765883053017?e=1770249600&v=beta&t=YuBH4Drwwybq8Yc9NEUD1nvdY-Iy8xWFJdTV-dB6Fec)
 
 ---
 
